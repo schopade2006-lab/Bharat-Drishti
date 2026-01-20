@@ -6,3 +6,4 @@ prophet
 uvicorn
 fastapi
 langchain
+langchain-openai
