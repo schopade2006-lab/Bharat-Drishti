@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import pandas as pd
 from langchain_openai import ChatOpenAI
-from langchain.chains import RetrievalQA
+from langchain_classic.chains import LLMChain
 # Assume you have set up your VectorStore (Chroma/FAISS)
 
 app = FastAPI()
