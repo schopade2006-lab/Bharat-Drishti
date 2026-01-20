@@ -7,3 +7,4 @@ uvicorn
 fastapi
 langchain
 langchain-openai
+langchain-classic
