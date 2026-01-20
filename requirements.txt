@@ -2,7 +2,6 @@ streamlit
 pandas
 matplotlib
 scikit-learn
-prophet
 uvicorn
 fastapi
 langchain
